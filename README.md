@@ -7,3 +7,4 @@
 3) Feature Selection and Feature Reduction 
 4) Data Balancing(PCA) 
 5)Classification
+![alt text](proposed-system/img.png)
